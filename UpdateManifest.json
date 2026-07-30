@@ -13,12 +13,12 @@
 },
 "client": {
 "enabled": true,
-"version": "4.3.1",
-"release_tag": "v4.3.1",
+"version": "4.3.2",
+"release_tag": "v4.3.2",
 "asset_name": "Client.zip",
 "mandatory": true,
-"minimum_supported_version": "4.3.1",
-"message": "Melhorias no atualizador automático; Sistema de loja adicionado (Para acessar, utilize Control+S no salão)."
+"minimum_supported_version": "4.3.2",
+"message": "Melhorias no atualizador automático; Sistema de loja adicionado (Para acessar, utilize Control+S no salão).; Correção de protocólo."
 },
 "sounds": {
 "enabled": true,
@@ -31,7 +31,7 @@
 "message": "Pacote completo de sons da Taverna das Cartas, incluindo efeitos, músicas, ambientes e menus."
 },
 "deployment": {
-"id": "update-4.3.1",
+"id": "update-4.3.2",
 "state": "active",
 "server_restart_required": true,
 "block_new_matches_seconds": 120,
