@@ -25,14 +25,14 @@
 "version": "1.1.0",
 "release_tag": "sounds-v1.1.0",
 "asset_name": "Sounds.zip",
-"mandatory": false,
+"mandatory": true,
 "recommended": true,
 "minimum_supported_version": "1.1.0",
 "message": "Pacote completo de sons da Taverna das Cartas, incluindo efeitos, músicas, ambientes e menus."
 },
 "deployment": {
 "id": "update-4.2.1",
-"state": "prepared",
+"state": "active",
 "server_restart_required": true,
 "block_new_matches_seconds": 120,
 "cancel_active_matches_at_deadline": true,
