@@ -1,33 +1,41 @@
 {
-  "schema_version": 2,
-  "repository": {
-    "owner": "NarutoIwatani",
-    "name": "tdc-stable-updates"
-  },
-  "server": {
-    "enabled": true,
-    "host": "26.1.89.206",
-    "port": 47851,
-    "maintenance": false,
-    "maintenance_message": ""
-  },
-  "client": {
-    "enabled": true,
-    "version": "4.0.2",
-    "release_tag": "v4.0.2",
-    "asset_name": "Client.zip",
-    "mandatory": true,
-    "minimum_supported_version": "4.0.2",
-    "message": "Baú sonoro integrado, cache de áudio ampliado e melhorias de estabilidade."
-  },
-  "sounds": {
-    "enabled": true,
-    "version": "1.1.0",
-    "release_tag": "sounds-v1.1.0",
-    "asset_name": "Sounds.zip",
-    "mandatory": false,
-    "recommended": true,
-    "minimum_supported_version": "1.1.0",
-    "message": "Pacote completo de sons da Taverna das Cartas, incluindo efeitos, músicas, ambientes e menus."
-  }
+"schema_version": 2,
+"repository": {
+"owner": "NarutoIwatani",
+"name": "tdc-stable-updates"
+},
+"server": {
+"enabled": true,
+"host": "26.1.89.206",
+"port": 47851,
+"maintenance": false,
+"maintenance_message": ""
+},
+"client": {
+"enabled": true,
+"version": "4.0.2",
+"release_tag": "v4.0.2",
+"asset_name": "Client.zip",
+"mandatory": true,
+"minimum_supported_version": "4.0.2",
+"message": "Baú sonoro integrado, cache de áudio ampliado e melhorias de estabilidade."
+},
+"sounds": {
+"enabled": true,
+"version": "1.1.0",
+"release_tag": "sounds-v1.1.0",
+"asset_name": "Sounds.zip",
+"mandatory": false,
+"recommended": true,
+"minimum_supported_version": "1.1.0",
+"message": "Pacote completo de sons da Taverna das Cartas, incluindo efeitos, músicas, ambientes e menus."
+},
+"deployment": {
+"id": "update-4.2.0",
+"state": "prepared",
+"server_restart_required": true,
+"block_new_matches_seconds": 120,
+"cancel_active_matches_at_deadline": true,
+"compensation_silver": 5
+}
 }
