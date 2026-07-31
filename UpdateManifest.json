@@ -31,7 +31,7 @@
 "message": "Pacote completo de sons da Taverna das Cartas, incluindo efeitos, músicas, ambientes e menus."
 },
 "deployment": {
-"id": "update-4.3.2",
+"id": "update-4.3.3",
 "state": "active",
 "server_restart_required": true,
 "block_new_matches_seconds": 120,
