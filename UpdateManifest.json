@@ -13,12 +13,12 @@
 },
 "client": {
 "enabled": true,
-"version": "4.3.2",
-"release_tag": "v4.3.2",
+"version": "4.3.3",
+"release_tag": "v4.3.3",
 "asset_name": "Client.zip",
 "mandatory": true,
-"minimum_supported_version": "4.3.2",
-"message": "Melhorias no atualizador automático; Sistema de loja adicionado (Para acessar, utilize Control+S no salão).; Correção de protocólo."
+"minimum_supported_version": "4.3.3",
+"message": "Melhorias no atualizador automático; Sistema de loja adicionado (Para acessar, utilize Control+S no salão); Correção de protocólo; Descrições de itens aprimoradas."
 },
 "sounds": {
 "enabled": true,
