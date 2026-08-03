@@ -13,17 +13,17 @@
 },
 "client": {
 "enabled": true,
-"version": "4.3.5",
-"release_tag": "v4.3.5",
+"version": "4.3.6",
+"release_tag": "v4.3.6",
 "asset_name": "Client.zip",
 "mandatory": true,
-"minimum_supported_version": "4.3.5",
-"message": "Atualização obrigatória da rede: fichas, catálogos e mensagens grandes agora usam transporte fragmentado e confiável."
+"minimum_supported_version": "4.3.6",
+"message": "Suporte a novos sons."
 },
 "sounds": {
 "enabled": true,
-"version": "1.1.0",
-"release_tag": "sounds-v1.1.0",
+"version": "2.0.0",
+"release_tag": "sounds-v2.0.0",
 "asset_name": "Sounds.zip",
 "mandatory": false,
 "recommended": true,
@@ -31,7 +31,7 @@
 "message": "Pacote completo de sons da Taverna das Cartas, incluindo efeitos, músicas, ambientes e menus."
 },
 "deployment": {
-"id": "update-4.3.5",
+"id": "update-4.3.6",
 "state": "active",
 "server_restart_required": true,
 "block_new_matches_seconds": 120,
