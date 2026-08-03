@@ -13,12 +13,12 @@
 },
 "client": {
 "enabled": true,
-"version": "4.3.4",
-"release_tag": "v4.3.4",
+"version": "4.3.5",
+"release_tag": "v4.3.5",
 "asset_name": "Client.zip",
 "mandatory": true,
-"minimum_supported_version": "4.3.4",
-"message": "Melhorias no atualizador automático; Sistema de loja adicionado (Para acessar, utilize Control+S no salão); Correção de protocólo; Descrições de itens aprimoradas; Corrigido verificações erradas no atualizador automático."
+"minimum_supported_version": "4.3.5",
+"message": "Atualização obrigatória da rede: fichas, catálogos e mensagens grandes agora usam transporte fragmentado e confiável."
 },
 "sounds": {
 "enabled": true,
