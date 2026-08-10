@@ -13,12 +13,12 @@
 },
 "client": {
 "enabled": true,
-"version": "4.3.6",
-"release_tag": "v4.3.6",
+"version": "4.4.14",
+"release_tag": "v4.4.14",
 "asset_name": "Client.zip",
 "mandatory": true,
-"minimum_supported_version": "4.3.6",
-"message": "Suporte a novos sons."
+"minimum_supported_version": "4.4.14",
+"message": "Sistema de chat de voz implementado (Experimental); Correções em um dos jogos; Pergaminho de Preferências organizado."
 },
 "sounds": {
 "enabled": true,
@@ -31,7 +31,7 @@
 "message": "Pacote completo de sons da Taverna das Cartas, incluindo efeitos, músicas, ambientes e menus."
 },
 "deployment": {
-"id": "update-4.3.6",
+"id": "update-4.4.14",
 "state": "active",
 "server_restart_required": true,
 "block_new_matches_seconds": 120,
