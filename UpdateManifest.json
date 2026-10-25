@@ -6,7 +6,7 @@
 },
 "server": {
 "enabled": true,
-"host": "178.92.163.235",
+"host": "68.168.222.85",
 "port": 47851,
 "maintenance": false,
 "maintenance_message": ""
