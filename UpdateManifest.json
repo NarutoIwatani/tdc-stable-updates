@@ -13,7 +13,7 @@
 },
 "client": {
 "enabled": true,
-"version": "4.4.16",
+"version": "4.4.17.3",
 "release_tag": "v4.4.16",
 "asset_name": "Client.zip",
 "mandatory": true,
